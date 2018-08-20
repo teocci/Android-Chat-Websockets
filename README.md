@@ -20,7 +20,7 @@ When submitting code, please make every effort to follow existing conventions an
 
 ## Credits
 
-This project was based on **JavaFxPlayVideoAndAudio** (Dmitriy Gerashenko <d.a.gerashenko@gmail.com>).
+This project was based on these libraries:
 
 - [Java WebSockets][1] for the websockets implementation
 - [JmDNS library][2] for the service discovery.
